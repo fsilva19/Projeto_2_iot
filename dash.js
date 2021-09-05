@@ -10,7 +10,7 @@ function liga() {
 function desliga() {
     mudança.innerText = "Luz apagada";
     document.getElementById("luz1").src = "https://i.postimg.cc/4dNxRQMg/Loff.png";
-    setInterval(sendToServer(2), 3000);
+    setInterval(sendToServer(3), 3000);
 }
 
 function sendToServer(state) {
