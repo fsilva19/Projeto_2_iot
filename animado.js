@@ -9,7 +9,7 @@ function fun1() {
 
 function func1() {
     mudança.innerHTML = "Resultado";
-    document.getElementById("luz1").src = "https://i.postimg.cc/4dNxRQMg/Loff.png"
+    document.getElementById("luz1").src = "https://i.postimg.cc/v80VH51q/Loff.png"
 }
 
 function fun2() {
@@ -21,7 +21,7 @@ function fun2() {
 
 function func2() {
     mudança.innerHTML = "Resultado";
-    document.getElementById("luz2").src = "https://i.postimg.cc/4dNxRQMg/Loff.png"
+    document.getElementById("luz2").src = "https://i.postimg.cc/v80VH51q/Loff.png"
 }
 
 function fun3() {
@@ -33,7 +33,7 @@ function fun3() {
 
 function func3() {
     mudança.innerHTML = "Resultado";
-    document.getElementById("luz3").src = "https://i.postimg.cc/4dNxRQMg/Loff.png"
+    document.getElementById("luz3").src = "https://i.postimg.cc/v80VH51q/Loff.png"
 }
 
 function fun4() {
@@ -45,7 +45,7 @@ function fun4() {
 
 function func4() {
     mudança.innerHTML = "Resultado";
-    document.getElementById("luz4").src = "https://i.postimg.cc/4dNxRQMg/Loff.png"
+    document.getElementById("luz4").src = "https://i.postimg.cc/v80VH51q/Loff.png"
 }
 
 function fun5() {
@@ -57,7 +57,7 @@ function fun5() {
 
 function func5() {
     mudança.innerHTML = "Resultado";
-    document.getElementById("luz5").src = "https://i.postimg.cc/4dNxRQMg/Loff.png"
+    document.getElementById("luz5").src = "https://i.postimg.cc/v80VH51q/Loff.png"
 }
 
 function fun6() {
@@ -69,7 +69,7 @@ function fun6() {
 
 function func6() {
     mudança.innerHTML = "Resultado";
-    document.getElementById("luz6").src = "https://i.postimg.cc/4dNxRQMg/Loff.png"
+    document.getElementById("luz6").src = "https://i.postimg.cc/v80VH51q/Loff.png"
 }
 
 function colorido() {
